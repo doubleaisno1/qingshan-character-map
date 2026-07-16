@@ -1,0 +1,1803 @@
+{
+  "novel": "青山",
+  "author": "會說話的肘子",
+  "scope": "第1章至第30章",
+  "maxChapter": 30,
+  "groups": {
+    "主角": "#2563eb",
+    "現代家族": "#f59e0b",
+    "現代人物": "#64748b",
+    "太平醫館": "#16a34a",
+    "密諜司": "#dc2626",
+    "十二生肖": "#e11d48",
+    "主刑司": "#475569",
+    "景朝諜探": "#7c3aed",
+    "靖王府": "#db2777",
+    "劉氏家族": "#b45309",
+    "陳府": "#0f766e",
+    "行官與宗門": "#0891b2",
+    "洛城世家": "#14b8a6",
+    "動物": "#92400e"
+  },
+  "characters": [
+    {
+      "id": "chenji",
+      "name": "陳跡",
+      "alias": "主角",
+      "group": "主角",
+      "firstChapter": 1,
+      "importance": "major",
+      "status": "穿越／重生",
+      "description": "現代洛城少年。父母車禍去世後設局復仇，死亡後進入寧朝洛城一名同名醫館學徒的身體。"
+    },
+    {
+      "id": "father",
+      "name": "陳跡父親",
+      "alias": "未具名",
+      "group": "現代家族",
+      "firstChapter": 1,
+      "importance": "supporting",
+      "status": "已故",
+      "description": "陳跡的父親，曾長期帶幼年陳跡求醫，後與妻子在車禍中死亡。"
+    },
+    {
+      "id": "mother",
+      "name": "陳跡母親",
+      "alias": "未具名",
+      "group": "現代家族",
+      "firstChapter": 1,
+      "importance": "supporting",
+      "status": "已故",
+      "description": "陳跡的母親，與丈夫在同一場車禍中死亡。"
+    },
+    {
+      "id": "chenshuo",
+      "name": "陳碩",
+      "alias": "二叔",
+      "group": "現代家族",
+      "firstChapter": 1,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "陳跡父親的弟弟，企圖將陳跡判為無民事行為能力人並侵占遺產。"
+    },
+    {
+      "id": "wanghuiling",
+      "name": "王慧玲",
+      "alias": "二嬸",
+      "group": "現代家族",
+      "firstChapter": 1,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "陳碩之妻，參與侵占陳跡房產與遺產的計畫。"
+    },
+    {
+      "id": "liudoc",
+      "name": "老劉",
+      "alias": "劉醫生",
+      "group": "現代人物",
+      "firstChapter": 1,
+      "importance": "minor",
+      "status": "存活",
+      "description": "青山醫院醫生，收受陳碩賄賂並開具虛假診斷。"
+    },
+    {
+      "id": "paoge",
+      "name": "陳沖",
+      "alias": "袍哥",
+      "group": "現代人物",
+      "firstChapter": 2,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "從事放貸生意的江湖人物。因陳跡抵押房產而介入事件，後理解陳跡的復仇計畫。"
+    },
+    {
+      "id": "erdao",
+      "name": "二刀",
+      "alias": "袍哥手下",
+      "group": "現代人物",
+      "firstChapter": 2,
+      "importance": "minor",
+      "status": "存活",
+      "description": "袍哥的小兄弟，執行命令一板一眼。"
+    },
+    {
+      "id": "wanglong",
+      "name": "王龍",
+      "alias": "土方商人",
+      "group": "現代人物",
+      "firstChapter": 3,
+      "importance": "supporting",
+      "status": "已故",
+      "description": "撞死陳跡父母的肇事者，利用精神診斷逃避審判，最後與陳跡互相致命搏鬥。"
+    },
+    {
+      "id": "liqingniao",
+      "name": "李青鳥",
+      "alias": "六樓病人",
+      "group": "現代人物",
+      "firstChapter": 1,
+      "importance": "supporting",
+      "status": "去向不明",
+      "description": "自稱生活在另一個世界的青年，預知陳跡到來，並在陳跡死亡時引導他前往另一個世界。"
+    },
+    {
+      "id": "hospitalelder",
+      "name": "六樓老人",
+      "alias": "未具名",
+      "group": "現代人物",
+      "firstChapter": 1,
+      "importance": "minor",
+      "status": "存活",
+      "description": "青山醫院六樓病人，帶陳跡去見李青鳥。"
+    },
+    {
+      "id": "yaolao",
+      "name": "姚奇門",
+      "alias": "姚老頭／姚太醫／師父",
+      "group": "太平醫館",
+      "firstChapter": 6,
+      "importance": "major",
+      "status": "存活",
+      "description": "太平醫館主人，曾任太醫。言語刻薄、醫術高明，對陳跡的異常與密諜司往來似乎早有察覺。"
+    },
+    {
+      "id": "liuquxing",
+      "name": "劉曲星",
+      "alias": "劉師兄",
+      "group": "太平醫館",
+      "firstChapter": 7,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "太平醫館學徒，瘦高機靈，與陳跡、佘登科既是同門也是親傳弟子競爭者。"
+    },
+    {
+      "id": "shedengke",
+      "name": "佘登科",
+      "alias": "佘師兄",
+      "group": "太平醫館",
+      "firstChapter": 8,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "太平醫館學徒，身材高壯，性格直接，與陳跡、劉曲星同年同月同日同時出生。"
+    },
+    {
+      "id": "shethird",
+      "name": "佘登科三哥",
+      "alias": "三哥／未具名",
+      "group": "太平醫館",
+      "firstChapter": 8,
+      "importance": "minor",
+      "status": "存活",
+      "description": "佘登科的三哥，替家裡送學銀與臘肉到醫館。"
+    },
+    {
+      "id": "liumother",
+      "name": "劉曲星母親",
+      "alias": "未具名",
+      "group": "太平醫館",
+      "firstChapter": 8,
+      "importance": "minor",
+      "status": "存活",
+      "description": "到太平醫館探望劉曲星並送食物、學銀。"
+    },
+    {
+      "id": "yunyang",
+      "name": "雲羊",
+      "alias": "密諜司官員",
+      "group": "密諜司",
+      "firstChapter": 4,
+      "importance": "major",
+      "status": "存活",
+      "description": "寧朝密諜司成員，擅長銀針、審訊與操控屍體，與皎兔共同追捕景朝諜探。"
+    },
+    {
+      "id": "jiaotu",
+      "name": "皎兔",
+      "alias": "密諜司官員",
+      "group": "密諜司",
+      "firstChapter": 4,
+      "importance": "major",
+      "status": "存活",
+      "description": "寧朝密諜司少女，身手敏捷、行事狠辣，與雲羊是同僚。"
+    },
+    {
+      "id": "neixiang",
+      "name": "內相",
+      "alias": "密諜司上級",
+      "group": "密諜司",
+      "firstChapter": 6,
+      "importance": "supporting",
+      "status": "未登場",
+      "description": "密諜司背後的大人物，姚太醫與其過去有交集。"
+    },
+    {
+      "id": "zhouchengyi",
+      "name": "周成義",
+      "alias": "周大人",
+      "group": "景朝諜探",
+      "firstChapter": 4,
+      "importance": "supporting",
+      "status": "已故",
+      "description": "潛伏在寧朝洛城的景朝諜探，遭密諜司查獲。"
+    },
+    {
+      "id": "cuihuan",
+      "name": "翠環",
+      "alias": "名竹苑女子",
+      "group": "景朝諜探",
+      "firstChapter": 4,
+      "importance": "minor",
+      "status": "被捕／未明",
+      "description": "景朝諜探，曾被周成義贖出並轉贈匠作監李大人，其口供牽出周成義。"
+    },
+    {
+      "id": "jingwang",
+      "name": "靖王",
+      "alias": "王爺",
+      "group": "靖王府",
+      "firstChapter": 10,
+      "importance": "supporting",
+      "status": "未登場",
+      "description": "靖王府之主，前十二章時人在江南。"
+    },
+    {
+      "id": "jingfei",
+      "name": "靜妃",
+      "alias": "晚星苑主人",
+      "group": "靖王府",
+      "firstChapter": 10,
+      "importance": "major",
+      "status": "存活",
+      "description": "靖王妃妾之一，懷孕後小產，陳跡判斷其長期鉛中毒。"
+    },
+    {
+      "id": "yunfei",
+      "name": "雲妃",
+      "alias": "王府夫人",
+      "group": "靖王府",
+      "firstChapter": 10,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "靖王妃妾之一，於晚星苑探視靜妃，與靜妃以姐妹相稱。"
+    },
+    {
+      "id": "chunhua",
+      "name": "春華",
+      "alias": "靜妃侍女",
+      "group": "靖王府",
+      "firstChapter": 9,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "靜妃身邊侍女，深夜到太平醫館請大夫。"
+    },
+    {
+      "id": "chunrong",
+      "name": "春容嬤嬤",
+      "alias": "靜妃近侍",
+      "group": "靖王府",
+      "firstChapter": 10,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "靜妃身邊的嬤嬤，性格強硬，負責處理晚星苑事務。"
+    },
+    {
+      "id": "xitang",
+      "name": "喜棠嬤嬤",
+      "alias": "雲妃近侍",
+      "group": "靖王府",
+      "firstChapter": 11,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲妃身邊的嬤嬤。"
+    },
+    {
+      "id": "xibing",
+      "name": "喜餅",
+      "alias": "雲妃侍女",
+      "group": "靖王府",
+      "firstChapter": 11,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲妃身邊的年輕侍女，奉命送陳跡回醫館並轉交賞賜。"
+    },
+    {
+      "id": "blackcat",
+      "name": "烏雲",
+      "alias": "小黑貓／靜妃原養狸奴",
+      "group": "動物",
+      "firstChapter": 10,
+      "importance": "supporting",
+      "status": "存活／具靈智",
+      "description": "原在晚星苑生活的小黑貓。與陳跡完成聘貓儀式後得名烏雲，能與陳跡溝通，是他在新世界最親近的夥伴。"
+    },
+    {
+      "id": "whitecat",
+      "name": "白般若",
+      "alias": "白貓／雲妃的獅子貓",
+      "group": "動物",
+      "firstChapter": 10,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲妃飼養的白色獅子貓，長期與烏雲打鬥，後被力量提升的烏雲反擊。"
+    },
+    {
+      "id": "wangguanjia",
+      "name": "王管家",
+      "alias": "李家管家",
+      "group": "洛城世家",
+      "firstChapter": 9,
+      "importance": "minor",
+      "status": "存活",
+      "description": "早期登場的王姓管家。第24章夢境中，夢雞借周府與王管家的形象審訊陳跡。"
+    },
+    {
+      "id": "lijiaoldlady",
+      "name": "李家老夫人",
+      "alias": "未具名",
+      "group": "洛城世家",
+      "firstChapter": 9,
+      "importance": "minor",
+      "status": "患病",
+      "description": "李家長輩，因上吐下瀉昏迷，家人派王管家求醫。"
+    },
+    {
+      "id": "liulaotaiye",
+      "name": "劉老太爺",
+      "alias": "劉家家主",
+      "group": "劉氏家族",
+      "firstChapter": 12,
+      "importance": "supporting",
+      "status": "對外宣稱病故",
+      "description": "劉氏家族老太爺，當朝太后的父親。他的病情與所謂死亡引發密諜司、主刑司和劉家的正面衝突。"
+    },
+    {
+      "id": "empressdowager",
+      "name": "當朝太后",
+      "alias": "劉老太爺之女",
+      "group": "劉氏家族",
+      "firstChapter": 12,
+      "importance": "minor",
+      "status": "未登場",
+      "description": "劉老太爺的女兒。"
+    },
+    {
+      "id": "ministerpersonnel",
+      "name": "劉閣老",
+      "alias": "吏部尚書／劉老太爺之子",
+      "group": "劉氏家族",
+      "firstChapter": 12,
+      "importance": "minor",
+      "status": "未登場",
+      "description": "劉老太爺之子，身兼閣老與吏部尚書，事發後趕回洛城。"
+    },
+    {
+      "id": "linzhaoqing",
+      "name": "林朝青",
+      "alias": "林指揮使",
+      "group": "主刑司",
+      "firstChapter": 17,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "主刑司指揮使，率魚龍衛自金陵趕到洛城，負責監察並押解辦案失誤的雲羊、皎兔。"
+    },
+    {
+      "id": "liumingxian",
+      "name": "劉明顯",
+      "alias": "洛城通判／劉家二房主事",
+      "group": "劉氏家族",
+      "firstChapter": 18,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "劉閣老之子、劉老太爺之孫，洛城從五品通判。率劉家人包圍周府，要求密諜司交代。"
+    },
+    {
+      "id": "liushiyu",
+      "name": "劉什魚",
+      "alias": "劉家子弟",
+      "group": "劉氏家族",
+      "firstChapter": 20,
+      "importance": "supporting",
+      "status": "死亡",
+      "description": "劉家子弟，宅中藏有周成義謄抄的密信書籍。死於內獄，表面為自縊，後被陳跡判斷是遭人滅口。"
+    },
+    {
+      "id": "lianggouer",
+      "name": "梁狗兒",
+      "alias": "劉家刀客",
+      "group": "劉氏家族",
+      "firstChapter": 19,
+      "importance": "minor",
+      "status": "存活",
+      "description": "嗜酒且刀法驚人的劉家刀客，因眼神不濟誤向林朝青出刀。"
+    },
+    {
+      "id": "liangmaoer",
+      "name": "梁貓兒",
+      "alias": "梁狗兒之弟",
+      "group": "劉氏家族",
+      "firstChapter": 19,
+      "importance": "minor",
+      "status": "存活",
+      "description": "梁狗兒的弟弟，常背著兄長行動，負責提醒與照顧醉酒的梁狗兒。"
+    },
+    {
+      "id": "qitiao",
+      "name": "七條",
+      "alias": "密諜代號",
+      "group": "密諜司",
+      "firstChapter": 18,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲羊在周府行動時點名守門的密諜。"
+    },
+    {
+      "id": "wubing",
+      "name": "五餅",
+      "alias": "密諜代號",
+      "group": "密諜司",
+      "firstChapter": 18,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲羊在周府行動時點名守門的密諜。"
+    },
+    {
+      "id": "qiwan",
+      "name": "七萬",
+      "alias": "密諜代號",
+      "group": "密諜司",
+      "firstChapter": 19,
+      "importance": "minor",
+      "status": "去向不明",
+      "description": "奉雲羊之命率其他密諜引開劉家追兵。"
+    },
+    {
+      "id": "lidabing",
+      "name": "李大餅",
+      "alias": "魚龍衛",
+      "group": "主刑司",
+      "firstChapter": 20,
+      "importance": "minor",
+      "status": "存活",
+      "description": "林朝青麾下魚龍衛，奉命阻止劉家放火。"
+    },
+    {
+      "id": "lidapao",
+      "name": "李大炮",
+      "alias": "魚龍衛",
+      "group": "主刑司",
+      "firstChapter": 20,
+      "importance": "minor",
+      "status": "存活",
+      "description": "林朝青麾下魚龍衛，與李大餅一同阻擋劉家人。"
+    },
+    {
+      "id": "mengji",
+      "name": "夢雞",
+      "alias": "十二生肖／造夢行官",
+      "group": "十二生肖",
+      "firstChapter": 21,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "密諜司十二生肖之一，能以頭髮為媒介製造夢境審訊目標，受雲羊委託查驗陳跡身分。"
+    },
+    {
+      "id": "jinzhu",
+      "name": "金豬",
+      "alias": "十二生肖",
+      "group": "十二生肖",
+      "firstChapter": 18,
+      "importance": "minor",
+      "status": "存活",
+      "description": "十二生肖成員，曾判斷洛城任務的功勞過於燙手。"
+    },
+    {
+      "id": "bailong",
+      "name": "白龍",
+      "alias": "十二生肖",
+      "group": "十二生肖",
+      "firstChapter": 19,
+      "importance": "minor",
+      "status": "存活",
+      "description": "十二生肖成員，雲羊與皎兔曾考慮辦案失敗後向其求情。"
+    },
+    {
+      "id": "baohou",
+      "name": "寶猴",
+      "alias": "十二生肖",
+      "group": "十二生肖",
+      "firstChapter": 25,
+      "importance": "minor",
+      "status": "存活",
+      "description": "十二生肖成員，同樣具備審訊相關能力，但被夢雞評為嘴巴不牢。"
+    },
+    {
+      "id": "binghu",
+      "name": "病虎",
+      "alias": "十二生肖",
+      "group": "十二生肖",
+      "firstChapter": 21,
+      "importance": "minor",
+      "status": "可能退位",
+      "description": "十二生肖成員，雲羊提到其位置可能即將空缺。"
+    },
+    {
+      "id": "jingchaosizhu",
+      "name": "景朝軍情司司主",
+      "alias": "司主／未具名",
+      "group": "景朝諜探",
+      "firstChapter": 20,
+      "importance": "supporting",
+      "status": "動向不明",
+      "description": "景朝軍情司最高層人物。周成義的密信顯示其可能親自南下洛城。"
+    },
+    {
+      "id": "ningfather",
+      "name": "陳跡父親（寧朝）",
+      "alias": "洛城同知／未具名",
+      "group": "陳府",
+      "firstChapter": 23,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "寧朝陳跡原身的父親，從五品洛城同知，長期監修河堤；陳跡是其庶子。"
+    },
+    {
+      "id": "ningstepmother",
+      "name": "陳跡嫡母",
+      "alias": "未具名",
+      "group": "陳府",
+      "firstChapter": 24,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "寧朝陳府主母。因不願負擔東林書院高額學銀，將庶子陳跡安排到太平醫館當學徒。"
+    },
+    {
+      "id": "ningbrother1",
+      "name": "陳家大少爺",
+      "alias": "陳跡兄長／未具名",
+      "group": "陳府",
+      "firstChapter": 23,
+      "importance": "minor",
+      "status": "存活",
+      "description": "陳府嫡子之一，自東林書院學成返家，準備參加會試。"
+    },
+    {
+      "id": "ningbrother2",
+      "name": "陳家二少爺",
+      "alias": "陳跡兄長／未具名",
+      "group": "陳府",
+      "firstChapter": 23,
+      "importance": "minor",
+      "status": "存活",
+      "description": "陳府嫡子之一，與兄長一同自東林書院返家。"
+    },
+    {
+      "id": "chenfuguanjia",
+      "name": "陳府管家",
+      "alias": "八字鬍管家／未具名",
+      "group": "陳府",
+      "firstChapter": 23,
+      "importance": "minor",
+      "status": "存活",
+      "description": "陳府管家，對返家的陳跡態度冷淡，僅補發學銀並要求其幫忙掛燈籠。"
+    },
+    {
+      "id": "wuyunmother",
+      "name": "烏雲母親",
+      "alias": "母貓／未具名",
+      "group": "動物",
+      "firstChapter": 23,
+      "importance": "minor",
+      "status": "下落不明",
+      "description": "烏雲幼時的母貓，原居清平巷，可能已被賣走。"
+    },
+    {
+      "id": "zhuyunxi",
+      "name": "朱云溪",
+      "alias": "靖王長子／世子",
+      "group": "靖王府",
+      "firstChapter": 24,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "靖王長子，已故正妃所生，在東林書院就讀，重陽前後返洛城。"
+    },
+    {
+      "id": "zhulingyun",
+      "name": "朱靈韻",
+      "alias": "靜妃之女",
+      "group": "靖王府",
+      "firstChapter": 24,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "靜妃的女兒，在東林書院就讀，重陽前後返洛城。"
+    },
+    {
+      "id": "zhubaili",
+      "name": "朱白鯉",
+      "alias": "雲妃之女",
+      "group": "靖王府",
+      "firstChapter": 22,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "雲妃的女兒，在東林書院就讀；雲妃安排將最好的銀絲炭留給她與世子。"
+    },
+    {
+      "id": "zhengfei",
+      "name": "靖王正妃",
+      "alias": "朱云溪之母／未具名",
+      "group": "靖王府",
+      "firstChapter": 24,
+      "importance": "minor",
+      "status": "已故",
+      "description": "靖王的正妃、朱云溪生母，已去世多年。"
+    },
+    {
+      "id": "fozi",
+      "name": "轉世佛子",
+      "alias": "葛寧派小和尚／未具名",
+      "group": "行官與宗門",
+      "firstChapter": 24,
+      "importance": "minor",
+      "status": "存活",
+      "description": "雲州密宗葛寧派的轉世佛子，因宗門需要朝廷支持與敕封而被質押在中原，與東林書院眾人同行。"
+    },
+    {
+      "id": "crow",
+      "name": "姚奇門的烏鴉",
+      "alias": "神秘烏鴉",
+      "group": "動物",
+      "firstChapter": 17,
+      "importance": "supporting",
+      "status": "存活",
+      "description": "多次暗中觀察陳跡的碩大烏鴉，第30章確認與姚奇門關係密切。"
+    },
+    {
+      "id": "assassin",
+      "name": "中年殺手",
+      "alias": "未具名",
+      "group": "洛城世家",
+      "firstChapter": 21,
+      "importance": "minor",
+      "status": "死亡",
+      "description": "追殺離開劉什魚宅邸後的陳跡，最終被陳跡牽制、烏雲割喉。"
+    },
+    {
+      "id": "xugong",
+      "name": "徐拱",
+      "alias": "內閣首輔",
+      "group": "洛城世家",
+      "firstChapter": 26,
+      "importance": "minor",
+      "status": "存活",
+      "description": "寧朝內閣首輔，傳聞曾請高僧以七寶蓮花燈使亡子重塑肉身。"
+    },
+    {
+      "id": "xushu",
+      "name": "徐術",
+      "alias": "欽天監副監正",
+      "group": "行官與宗門",
+      "firstChapter": 26,
+      "importance": "minor",
+      "status": "存活",
+      "description": "徐拱之子，傳聞死後被重塑肉身，如今任欽天監副監正。"
+    },
+    {
+      "id": "yunfangzhang",
+      "name": "雲方丈",
+      "alias": "陀羅寺方丈",
+      "group": "行官與宗門",
+      "firstChapter": 26,
+      "importance": "minor",
+      "status": "存活",
+      "description": "城南陀羅寺方丈，曾主持水陸法會，與神異復生傳聞相關。"
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "source": "chenji",
+      "target": "father",
+      "type": "親屬",
+      "label": "父子",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r2",
+      "source": "chenji",
+      "target": "mother",
+      "type": "親屬",
+      "label": "母子",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r3",
+      "source": "father",
+      "target": "mother",
+      "type": "婚姻",
+      "label": "夫妻",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r4",
+      "source": "father",
+      "target": "chenshuo",
+      "type": "親屬",
+      "label": "兄弟",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r5",
+      "source": "chenji",
+      "target": "chenshuo",
+      "type": "親屬",
+      "label": "叔侄／侵產對立",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r6",
+      "source": "chenji",
+      "target": "wanghuiling",
+      "type": "親屬",
+      "label": "嬸侄／侵產對立",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r7",
+      "source": "chenshuo",
+      "target": "wanghuiling",
+      "type": "婚姻",
+      "label": "夫妻",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r8",
+      "source": "chenshuo",
+      "target": "liudoc",
+      "type": "勾結",
+      "label": "賄賂造假診斷",
+      "firstChapter": 1,
+      "spoiler": 1
+    },
+    {
+      "id": "r9",
+      "source": "wanghuiling",
+      "target": "liudoc",
+      "type": "勾結",
+      "label": "共同侵產計畫",
+      "firstChapter": 1,
+      "spoiler": 1
+    },
+    {
+      "id": "r10",
+      "source": "chenji",
+      "target": "liqingniao",
+      "type": "命運",
+      "label": "預知與引渡",
+      "firstChapter": 1,
+      "spoiler": 1
+    },
+    {
+      "id": "r11",
+      "source": "hospitalelder",
+      "target": "liqingniao",
+      "type": "病友",
+      "label": "同住六樓",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r12",
+      "source": "hospitalelder",
+      "target": "chenji",
+      "type": "引介",
+      "label": "帶去見李青鳥",
+      "firstChapter": 1,
+      "spoiler": 0
+    },
+    {
+      "id": "r13",
+      "source": "paoge",
+      "target": "erdao",
+      "type": "主從",
+      "label": "大哥／手下",
+      "firstChapter": 2,
+      "spoiler": 0
+    },
+    {
+      "id": "r14",
+      "source": "chenji",
+      "target": "paoge",
+      "type": "交易",
+      "label": "房產抵押／借力設局",
+      "firstChapter": 2,
+      "spoiler": 1
+    },
+    {
+      "id": "r15",
+      "source": "paoge",
+      "target": "chenshuo",
+      "type": "衝突",
+      "label": "追查設局事件",
+      "firstChapter": 2,
+      "spoiler": 1
+    },
+    {
+      "id": "r16",
+      "source": "paoge",
+      "target": "liudoc",
+      "type": "衝突",
+      "label": "逼問真相",
+      "firstChapter": 3,
+      "spoiler": 1
+    },
+    {
+      "id": "r17",
+      "source": "wanglong",
+      "target": "father",
+      "type": "加害",
+      "label": "車禍肇事致死",
+      "firstChapter": 3,
+      "spoiler": 2
+    },
+    {
+      "id": "r18",
+      "source": "wanglong",
+      "target": "mother",
+      "type": "加害",
+      "label": "車禍肇事致死",
+      "firstChapter": 3,
+      "spoiler": 2
+    },
+    {
+      "id": "r19",
+      "source": "chenji",
+      "target": "wanglong",
+      "type": "死敵",
+      "label": "殺親仇人／互相致命搏鬥",
+      "firstChapter": 3,
+      "spoiler": 2
+    },
+    {
+      "id": "r20",
+      "source": "yunyang",
+      "target": "jiaotu",
+      "type": "同僚",
+      "label": "密諜司搭檔",
+      "firstChapter": 4,
+      "spoiler": 0
+    },
+    {
+      "id": "r21",
+      "source": "yunyang",
+      "target": "neixiang",
+      "type": "隸屬",
+      "label": "密諜司上下級",
+      "firstChapter": 6,
+      "spoiler": 0
+    },
+    {
+      "id": "r22",
+      "source": "jiaotu",
+      "target": "neixiang",
+      "type": "隸屬",
+      "label": "密諜司上下級",
+      "firstChapter": 6,
+      "spoiler": 0
+    },
+    {
+      "id": "r23",
+      "source": "yunyang",
+      "target": "zhouchengyi",
+      "type": "敵對",
+      "label": "追捕／審訊",
+      "firstChapter": 4,
+      "spoiler": 1
+    },
+    {
+      "id": "r24",
+      "source": "jiaotu",
+      "target": "zhouchengyi",
+      "type": "敵對",
+      "label": "追捕／制伏",
+      "firstChapter": 4,
+      "spoiler": 1
+    },
+    {
+      "id": "r25",
+      "source": "zhouchengyi",
+      "target": "cuihuan",
+      "type": "諜報",
+      "label": "同屬景朝諜網／被口供牽出",
+      "firstChapter": 4,
+      "spoiler": 1
+    },
+    {
+      "id": "r26",
+      "source": "chenji",
+      "target": "yunyang",
+      "type": "危險合作",
+      "label": "受審後被當作誘餌",
+      "firstChapter": 4,
+      "spoiler": 1
+    },
+    {
+      "id": "r27",
+      "source": "chenji",
+      "target": "jiaotu",
+      "type": "危險合作",
+      "label": "受監視與利用",
+      "firstChapter": 4,
+      "spoiler": 1
+    },
+    {
+      "id": "r28",
+      "source": "chenji",
+      "target": "zhouchengyi",
+      "type": "敵對",
+      "label": "找出密信／間接導致被捕",
+      "firstChapter": 5,
+      "spoiler": 1
+    },
+    {
+      "id": "r29",
+      "source": "yaolao",
+      "target": "chenji",
+      "type": "師徒",
+      "label": "師父／學徒",
+      "firstChapter": 6,
+      "spoiler": 0
+    },
+    {
+      "id": "r30",
+      "source": "yaolao",
+      "target": "liuquxing",
+      "type": "師徒",
+      "label": "師父／學徒",
+      "firstChapter": 7,
+      "spoiler": 0
+    },
+    {
+      "id": "r31",
+      "source": "yaolao",
+      "target": "shedengke",
+      "type": "師徒",
+      "label": "師父／學徒",
+      "firstChapter": 8,
+      "spoiler": 0
+    },
+    {
+      "id": "r32",
+      "source": "chenji",
+      "target": "liuquxing",
+      "type": "同門",
+      "label": "師兄弟／競爭親傳",
+      "firstChapter": 7,
+      "spoiler": 0
+    },
+    {
+      "id": "r33",
+      "source": "chenji",
+      "target": "shedengke",
+      "type": "同門",
+      "label": "師兄弟／競爭親傳",
+      "firstChapter": 8,
+      "spoiler": 0
+    },
+    {
+      "id": "r34",
+      "source": "liuquxing",
+      "target": "shedengke",
+      "type": "同門",
+      "label": "師兄弟／競爭親傳",
+      "firstChapter": 8,
+      "spoiler": 0
+    },
+    {
+      "id": "r35",
+      "source": "shedengke",
+      "target": "shethird",
+      "type": "親屬",
+      "label": "兄弟",
+      "firstChapter": 8,
+      "spoiler": 0
+    },
+    {
+      "id": "r36",
+      "source": "liuquxing",
+      "target": "liumother",
+      "type": "親屬",
+      "label": "母子",
+      "firstChapter": 8,
+      "spoiler": 0
+    },
+    {
+      "id": "r37",
+      "source": "yaolao",
+      "target": "neixiang",
+      "type": "舊識",
+      "label": "京城曾有交集",
+      "firstChapter": 6,
+      "spoiler": 1
+    },
+    {
+      "id": "r38",
+      "source": "jingwang",
+      "target": "jingfei",
+      "type": "婚姻",
+      "label": "王爺／妃妾",
+      "firstChapter": 10,
+      "spoiler": 0
+    },
+    {
+      "id": "r39",
+      "source": "jingwang",
+      "target": "yunfei",
+      "type": "婚姻",
+      "label": "王爺／妃妾",
+      "firstChapter": 10,
+      "spoiler": 0
+    },
+    {
+      "id": "r40",
+      "source": "jingfei",
+      "target": "yunfei",
+      "type": "王府關係",
+      "label": "以姐妹相稱／關係微妙",
+      "firstChapter": 10,
+      "spoiler": 1
+    },
+    {
+      "id": "r41",
+      "source": "chunhua",
+      "target": "jingfei",
+      "type": "侍從",
+      "label": "侍女／主人",
+      "firstChapter": 9,
+      "spoiler": 0
+    },
+    {
+      "id": "r42",
+      "source": "chunrong",
+      "target": "jingfei",
+      "type": "侍從",
+      "label": "嬤嬤／主人",
+      "firstChapter": 10,
+      "spoiler": 0
+    },
+    {
+      "id": "r43",
+      "source": "xitang",
+      "target": "yunfei",
+      "type": "侍從",
+      "label": "嬤嬤／主人",
+      "firstChapter": 11,
+      "spoiler": 0
+    },
+    {
+      "id": "r44",
+      "source": "xibing",
+      "target": "yunfei",
+      "type": "侍從",
+      "label": "侍女／主人",
+      "firstChapter": 11,
+      "spoiler": 0
+    },
+    {
+      "id": "r45",
+      "source": "chenji",
+      "target": "jingfei",
+      "type": "醫患",
+      "label": "診斷鉛中毒",
+      "firstChapter": 10,
+      "spoiler": 1
+    },
+    {
+      "id": "r46",
+      "source": "chenji",
+      "target": "yunfei",
+      "type": "王府接觸",
+      "label": "受留意與賞賜",
+      "firstChapter": 11,
+      "spoiler": 1
+    },
+    {
+      "id": "r47",
+      "source": "jingfei",
+      "target": "blackcat",
+      "type": "飼養",
+      "label": "主人／寵物",
+      "firstChapter": 11,
+      "spoiler": 0
+    },
+    {
+      "id": "r48",
+      "source": "yunfei",
+      "target": "whitecat",
+      "type": "飼養",
+      "label": "主人／寵物",
+      "firstChapter": 11,
+      "spoiler": 0
+    },
+    {
+      "id": "r49",
+      "source": "blackcat",
+      "target": "whitecat",
+      "type": "敵對",
+      "label": "持續打鬥",
+      "firstChapter": 10,
+      "spoiler": 0
+    },
+    {
+      "id": "r50",
+      "source": "chenji",
+      "target": "blackcat",
+      "type": "神秘聯繫",
+      "label": "黑貓追逐冰流珠子",
+      "firstChapter": 11,
+      "spoiler": 1
+    },
+    {
+      "id": "r51",
+      "source": "wangguanjia",
+      "target": "lijiaoldlady",
+      "type": "主從",
+      "label": "管家／主人",
+      "firstChapter": 9,
+      "spoiler": 0
+    },
+    {
+      "id": "r52",
+      "source": "wangguanjia",
+      "target": "yaolao",
+      "type": "求醫",
+      "label": "請求出診",
+      "firstChapter": 9,
+      "spoiler": 0
+    },
+    {
+      "id": "r53",
+      "source": "liulaotaiye",
+      "target": "empressdowager",
+      "type": "親屬",
+      "label": "父女",
+      "firstChapter": 12,
+      "spoiler": 0
+    },
+    {
+      "id": "r54",
+      "source": "liulaotaiye",
+      "target": "ministerpersonnel",
+      "type": "親屬",
+      "label": "父子",
+      "firstChapter": 12,
+      "spoiler": 0
+    },
+    {
+      "id": "r55",
+      "source": "yaolao",
+      "target": "liulaotaiye",
+      "type": "醫患",
+      "label": "受邀出診",
+      "firstChapter": 12,
+      "spoiler": 0
+    },
+    {
+      "id": "r56",
+      "source": "neixiang",
+      "target": "liulaotaiye",
+      "type": "政治衝突",
+      "label": "密諜司查辦劉家子弟",
+      "firstChapter": 12,
+      "spoiler": 1
+    },
+    {
+      "id": "r57",
+      "source": "chenji",
+      "target": "blackcat",
+      "type": "契約",
+      "label": "聘貓得名烏雲／彼此選擇",
+      "firstChapter": 13,
+      "spoiler": 1
+    },
+    {
+      "id": "r58",
+      "source": "blackcat",
+      "target": "whitecat",
+      "type": "敵對",
+      "label": "力量提升後復仇擊敗白般若",
+      "firstChapter": 14,
+      "spoiler": 1
+    },
+    {
+      "id": "r59",
+      "source": "blackcat",
+      "target": "chenji",
+      "type": "救命",
+      "label": "尋得人參救回陳跡",
+      "firstChapter": 15,
+      "spoiler": 1
+    },
+    {
+      "id": "r60",
+      "source": "chenji",
+      "target": "yunyang",
+      "type": "情報交易",
+      "label": "以查諜功勞換取每次五十兩報酬",
+      "firstChapter": 16,
+      "spoiler": 1
+    },
+    {
+      "id": "r61",
+      "source": "yunyang",
+      "target": "jiaotu",
+      "type": "辦案搭檔",
+      "label": "共同承擔劉家案件風險",
+      "firstChapter": 16,
+      "spoiler": 0
+    },
+    {
+      "id": "r62",
+      "source": "linzhaoqing",
+      "target": "neixiang",
+      "type": "隸屬",
+      "label": "主刑司同受內相節制",
+      "firstChapter": 17,
+      "spoiler": 0
+    },
+    {
+      "id": "r63",
+      "source": "linzhaoqing",
+      "target": "yunyang",
+      "type": "政治衝突",
+      "label": "奉命押回京城／交手追捕",
+      "firstChapter": 17,
+      "spoiler": 1
+    },
+    {
+      "id": "r64",
+      "source": "linzhaoqing",
+      "target": "jiaotu",
+      "type": "政治衝突",
+      "label": "監察並準備押解",
+      "firstChapter": 17,
+      "spoiler": 1
+    },
+    {
+      "id": "r65",
+      "source": "liumingxian",
+      "target": "liulaotaiye",
+      "type": "親屬",
+      "label": "祖孫",
+      "firstChapter": 18,
+      "spoiler": 0
+    },
+    {
+      "id": "r66",
+      "source": "liumingxian",
+      "target": "ministerpersonnel",
+      "type": "親屬",
+      "label": "父子",
+      "firstChapter": 18,
+      "spoiler": 0
+    },
+    {
+      "id": "r67",
+      "source": "liumingxian",
+      "target": "yunyang",
+      "type": "衝突",
+      "label": "率劉家人包圍追討",
+      "firstChapter": 18,
+      "spoiler": 1
+    },
+    {
+      "id": "r68",
+      "source": "liumingxian",
+      "target": "jiaotu",
+      "type": "衝突",
+      "label": "率劉家人包圍追討",
+      "firstChapter": 18,
+      "spoiler": 1
+    },
+    {
+      "id": "r69",
+      "source": "qitiao",
+      "target": "yunyang",
+      "type": "隸屬",
+      "label": "密諜下屬",
+      "firstChapter": 18,
+      "spoiler": 0
+    },
+    {
+      "id": "r70",
+      "source": "wubing",
+      "target": "yunyang",
+      "type": "隸屬",
+      "label": "密諜下屬",
+      "firstChapter": 18,
+      "spoiler": 0
+    },
+    {
+      "id": "r71",
+      "source": "qiwan",
+      "target": "yunyang",
+      "type": "隸屬",
+      "label": "奉命引開追兵",
+      "firstChapter": 19,
+      "spoiler": 0
+    },
+    {
+      "id": "r72",
+      "source": "lianggouer",
+      "target": "liangmaoer",
+      "type": "親屬",
+      "label": "兄弟",
+      "firstChapter": 19,
+      "spoiler": 0
+    },
+    {
+      "id": "r73",
+      "source": "lianggouer",
+      "target": "liumingxian",
+      "type": "依附",
+      "label": "受劉家驅使後被逐出",
+      "firstChapter": 19,
+      "spoiler": 1
+    },
+    {
+      "id": "r74",
+      "source": "lianggouer",
+      "target": "linzhaoqing",
+      "type": "衝突",
+      "label": "誤認閹黨出刀砍錯人",
+      "firstChapter": 19,
+      "spoiler": 0
+    },
+    {
+      "id": "r75",
+      "source": "lidabing",
+      "target": "linzhaoqing",
+      "type": "隸屬",
+      "label": "魚龍衛下屬",
+      "firstChapter": 20,
+      "spoiler": 0
+    },
+    {
+      "id": "r76",
+      "source": "lidapao",
+      "target": "linzhaoqing",
+      "type": "隸屬",
+      "label": "魚龍衛下屬",
+      "firstChapter": 20,
+      "spoiler": 0
+    },
+    {
+      "id": "r77",
+      "source": "zhouchengyi",
+      "target": "liushiyu",
+      "type": "諜報",
+      "label": "以謄抄書籍傳遞情報",
+      "firstChapter": 20,
+      "spoiler": 2
+    },
+    {
+      "id": "r78",
+      "source": "zhouchengyi",
+      "target": "jingchaosizhu",
+      "type": "隸屬",
+      "label": "景朝軍情司諜網上下級",
+      "firstChapter": 20,
+      "spoiler": 1
+    },
+    {
+      "id": "r79",
+      "source": "chenji",
+      "target": "liushiyu",
+      "type": "查案",
+      "label": "找出其接收密信的書籍",
+      "firstChapter": 20,
+      "spoiler": 1
+    },
+    {
+      "id": "r80",
+      "source": "linzhaoqing",
+      "target": "chenji",
+      "type": "賞識",
+      "label": "肯定破案能力並提出主刑司選擇",
+      "firstChapter": 20,
+      "spoiler": 1
+    },
+    {
+      "id": "r81",
+      "source": "assassin",
+      "target": "chenji",
+      "type": "敵對",
+      "label": "跟蹤追殺",
+      "firstChapter": 21,
+      "spoiler": 1
+    },
+    {
+      "id": "r82",
+      "source": "blackcat",
+      "target": "assassin",
+      "type": "擊殺",
+      "label": "配合陳跡割喉反殺",
+      "firstChapter": 21,
+      "spoiler": 2
+    },
+    {
+      "id": "r83",
+      "source": "mengji",
+      "target": "yunyang",
+      "type": "交易",
+      "label": "受邀以夢境審訊陳跡",
+      "firstChapter": 21,
+      "spoiler": 1
+    },
+    {
+      "id": "r84",
+      "source": "mengji",
+      "target": "jiaotu",
+      "type": "同僚",
+      "label": "同屬十二生肖／密諜系統",
+      "firstChapter": 21,
+      "spoiler": 0
+    },
+    {
+      "id": "r85",
+      "source": "jinzhu",
+      "target": "yunyang",
+      "type": "同僚",
+      "label": "十二生肖同僚",
+      "firstChapter": 18,
+      "spoiler": 0
+    },
+    {
+      "id": "r86",
+      "source": "bailong",
+      "target": "yunyang",
+      "type": "同僚",
+      "label": "十二生肖同僚",
+      "firstChapter": 19,
+      "spoiler": 0
+    },
+    {
+      "id": "r87",
+      "source": "bailong",
+      "target": "jiaotu",
+      "type": "同僚",
+      "label": "十二生肖同僚",
+      "firstChapter": 19,
+      "spoiler": 0
+    },
+    {
+      "id": "r88",
+      "source": "binghu",
+      "target": "yunyang",
+      "type": "同僚",
+      "label": "其生肖位置被談及可能空缺",
+      "firstChapter": 21,
+      "spoiler": 1
+    },
+    {
+      "id": "r89",
+      "source": "baohou",
+      "target": "mengji",
+      "type": "同僚",
+      "label": "同具審訊能力／彼此比較",
+      "firstChapter": 25,
+      "spoiler": 0
+    },
+    {
+      "id": "r90",
+      "source": "mengji",
+      "target": "chenji",
+      "type": "審訊",
+      "label": "入夢查驗是否為景朝諜探",
+      "firstChapter": 24,
+      "spoiler": 1
+    },
+    {
+      "id": "r91",
+      "source": "liuquxing",
+      "target": "chenji",
+      "type": "相助",
+      "label": "翻書聲意外喚醒陳跡脫離夢境",
+      "firstChapter": 25,
+      "spoiler": 1
+    },
+    {
+      "id": "r92",
+      "source": "chenji",
+      "target": "ningfather",
+      "type": "親屬",
+      "label": "父子／庶子",
+      "firstChapter": 23,
+      "spoiler": 1
+    },
+    {
+      "id": "r93",
+      "source": "chenji",
+      "target": "ningstepmother",
+      "type": "親屬",
+      "label": "庶子與嫡母／遭排擠",
+      "firstChapter": 24,
+      "spoiler": 1
+    },
+    {
+      "id": "r94",
+      "source": "ningfather",
+      "target": "ningstepmother",
+      "type": "婚姻",
+      "label": "夫妻",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r95",
+      "source": "chenji",
+      "target": "ningbrother1",
+      "type": "親屬",
+      "label": "同父兄弟／嫡庶有別",
+      "firstChapter": 23,
+      "spoiler": 1
+    },
+    {
+      "id": "r96",
+      "source": "chenji",
+      "target": "ningbrother2",
+      "type": "親屬",
+      "label": "同父兄弟／嫡庶有別",
+      "firstChapter": 23,
+      "spoiler": 1
+    },
+    {
+      "id": "r97",
+      "source": "ningstepmother",
+      "target": "ningbrother1",
+      "type": "親屬",
+      "label": "母子",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r98",
+      "source": "ningstepmother",
+      "target": "ningbrother2",
+      "type": "親屬",
+      "label": "母子",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r99",
+      "source": "chenfuguanjia",
+      "target": "ningfather",
+      "type": "主從",
+      "label": "陳府管家／主人",
+      "firstChapter": 23,
+      "spoiler": 0
+    },
+    {
+      "id": "r100",
+      "source": "blackcat",
+      "target": "wuyunmother",
+      "type": "親屬",
+      "label": "母子／失散",
+      "firstChapter": 23,
+      "spoiler": 1
+    },
+    {
+      "id": "r101",
+      "source": "jingwang",
+      "target": "zhuyunxi",
+      "type": "親屬",
+      "label": "父子",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r102",
+      "source": "zhengfei",
+      "target": "zhuyunxi",
+      "type": "親屬",
+      "label": "母子",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r103",
+      "source": "jingwang",
+      "target": "zhengfei",
+      "type": "婚姻",
+      "label": "夫妻／正妃已故",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r104",
+      "source": "jingfei",
+      "target": "zhulingyun",
+      "type": "親屬",
+      "label": "母女",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r105",
+      "source": "jingwang",
+      "target": "zhulingyun",
+      "type": "親屬",
+      "label": "父女",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r106",
+      "source": "yunfei",
+      "target": "zhubaili",
+      "type": "親屬",
+      "label": "母女",
+      "firstChapter": 22,
+      "spoiler": 0
+    },
+    {
+      "id": "r107",
+      "source": "jingwang",
+      "target": "zhubaili",
+      "type": "親屬",
+      "label": "父女",
+      "firstChapter": 24,
+      "spoiler": 0
+    },
+    {
+      "id": "r108",
+      "source": "jingwang",
+      "target": "fozi",
+      "type": "政治關係",
+      "label": "葛寧派質押於中原的轉世佛子",
+      "firstChapter": 24,
+      "spoiler": 1
+    },
+    {
+      "id": "r109",
+      "source": "xugong",
+      "target": "xushu",
+      "type": "親屬",
+      "label": "父子／傳聞死後重塑肉身",
+      "firstChapter": 26,
+      "spoiler": 1
+    },
+    {
+      "id": "r110",
+      "source": "yunfangzhang",
+      "target": "xushu",
+      "type": "神異傳聞",
+      "label": "宗教復生傳聞的對照人物",
+      "firstChapter": 26,
+      "spoiler": 1
+    },
+    {
+      "id": "r111",
+      "source": "chenji",
+      "target": "xushu",
+      "type": "希望",
+      "label": "復生傳聞使陳跡想到救回父母",
+      "firstChapter": 26,
+      "spoiler": 1
+    },
+    {
+      "id": "r112",
+      "source": "yunyang",
+      "target": "liushiyu",
+      "type": "查案",
+      "label": "內獄羈押與審訊",
+      "firstChapter": 27,
+      "spoiler": 1
+    },
+    {
+      "id": "r113",
+      "source": "chenji",
+      "target": "liushiyu",
+      "type": "驗屍",
+      "label": "判斷並非自縊而是遭滅口",
+      "firstChapter": 28,
+      "spoiler": 2
+    },
+    {
+      "id": "r114",
+      "source": "liushiyu",
+      "target": "jingchaosizhu",
+      "type": "諜報",
+      "label": "所涉案件指向更高層諜網",
+      "firstChapter": 28,
+      "spoiler": 2
+    },
+    {
+      "id": "r115",
+      "source": "liulaotaiye",
+      "target": "liumingxian",
+      "type": "家族共謀",
+      "label": "假死施壓以保全家族子弟",
+      "firstChapter": 30,
+      "spoiler": 2
+    },
+    {
+      "id": "r116",
+      "source": "yunyang",
+      "target": "liulaotaiye",
+      "type": "敵對",
+      "label": "開棺查驗假死",
+      "firstChapter": 29,
+      "spoiler": 2
+    },
+    {
+      "id": "r117",
+      "source": "jiaotu",
+      "target": "liulaotaiye",
+      "type": "敵對",
+      "label": "陰神入墓確認空棺",
+      "firstChapter": 29,
+      "spoiler": 2
+    },
+    {
+      "id": "r118",
+      "source": "jiaotu",
+      "target": "chenji",
+      "type": "情報交易",
+      "label": "共同開棺查案／結算報酬",
+      "firstChapter": 29,
+      "spoiler": 1
+    },
+    {
+      "id": "r119",
+      "source": "yaolao",
+      "target": "crow",
+      "type": "行官夥伴",
+      "label": "操控或驅使烏鴉監察",
+      "firstChapter": 30,
+      "spoiler": 2
+    },
+    {
+      "id": "r120",
+      "source": "crow",
+      "target": "chenji",
+      "type": "監視",
+      "label": "多次暗中觀察與跟隨",
+      "firstChapter": 17,
+      "spoiler": 1
+    },
+    {
+      "id": "r121",
+      "source": "yaolao",
+      "target": "chenji",
+      "type": "行官啟蒙",
+      "label": "揭示行官與修行門徑規則",
+      "firstChapter": 30,
+      "spoiler": 2
+    },
+    {
+      "id": "r122",
+      "source": "yaolao",
+      "target": "blackcat",
+      "type": "親近",
+      "label": "知道其姓名並投餵點心",
+      "firstChapter": 27,
+      "spoiler": 1
+    },
+    {
+      "id": "r123",
+      "source": "blackcat",
+      "target": "chenji",
+      "type": "相依為命",
+      "label": "共同生存與修行的家人般夥伴",
+      "firstChapter": 23,
+      "spoiler": 1
+    }
+  ]
+}
